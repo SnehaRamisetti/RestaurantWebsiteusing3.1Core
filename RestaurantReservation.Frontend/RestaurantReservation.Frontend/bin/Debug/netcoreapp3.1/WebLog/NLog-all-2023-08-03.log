@@ -1,0 +1,4 @@
+2023-08-03 09:55:59.2835 | INFO | https://localhost/ | Start processing HTTP request GET http://localhost:5000/api/restaurant |  
+2023-08-03 09:55:59.2948 | INFO | https://localhost/ | Sending HTTP request GET http://localhost:5000/api/restaurant |  
+2023-08-03 09:55:59.4785 | INFO | https://localhost/ | Received HTTP response after 183.5996ms - OK |  
+2023-08-03 09:55:59.4785 | INFO | https://localhost/ | End processing HTTP request after 196.5117ms - OK |  
